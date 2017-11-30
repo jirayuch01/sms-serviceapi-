@@ -2,13 +2,12 @@
 Project with NodeJS / Express / MongoDB <br>
 
 # Page
-Homepage: https://sms-services.herokuapp.com/ <br>
-Git: https://git.heroku.com/sms-services.git <br>
-or https://github.com/jirayuch01/smsServiceAPI <br>
-mongoDB: https://mlab.com/databases/smsservice <br>
+Homepage: https://smsservices.herokuapp.com/ <br>
+Git: https://github.com/jirayuch01/sms-serviceapi- <br>
+mongoDB: https://mlab.com/databases/smsservices <br>
 
 # DockerContainer:
-Homepage: https://smsserviceapi.herokuapp.com/ <br>
+Homepage: https://smsservices.herokuapp.com/ <br>
 Git: https://github.com/jirayuch01/Dockers <br>
 Clip: https://www.youtube.com/watch?v=O6yezWtEN7Q&t=61s <br>
 
