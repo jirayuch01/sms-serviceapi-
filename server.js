@@ -9,7 +9,7 @@ var morgan = require('morgan');
 var fs = require('fs');
 
 //mongoose.connect('mongodb://localhost/forAuth');
-mongoose.connect('mongodb://Beerkurai1412:nanoha1412@ds129281.mlab.com:29281/smsservices', {useMongoClient: true});
+mongoose.connect('mongodb://Beerkurai1412:nanoha1412@ds125016.mlab.com:25016/smsservices', {useMongoClient: true});
 mongoose.connection.on('error', console.error.bind(console, 'Connection error:'));
 
 var db = mongoose.connection;
